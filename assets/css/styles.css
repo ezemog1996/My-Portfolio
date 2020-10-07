@@ -1,3 +1,6 @@
+html {
+    overflow-y: scroll;
+}
 main {
     margin-top: 60px;
 }
@@ -5,4 +8,8 @@ main {
 img {
     height: 200px;
     width: 200px;
+}
+
+.footer-copyright {
+    color: white;
 }
