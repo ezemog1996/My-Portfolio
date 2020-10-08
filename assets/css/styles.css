@@ -1,11 +1,24 @@
 html {
     overflow-y: scroll;
 }
-main {
-    margin-top: 60px;
+
+body {
+    background-image: url("../imgs/Background.jpg");
+    background-size: cover;
 }
 
-img {
+main {
+    background-color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.container {
+    margin-top: 60px;
+    margin-bottom: 120px;
+}
+
+#me {
     height: 200px;
     width: 200px;
 }
