@@ -4,7 +4,7 @@ html {
 
 body {
     background-image: url("../imgs/Background.jpg");
-    background-size: cover;
+    background-size: 1500px 1000px;
 }
 
 main {
@@ -21,6 +21,10 @@ main {
 #me {
     height: 200px;
     width: 200px;
+}
+
+.project {
+    width: 350px;
 }
 
 .footer-copyright {
