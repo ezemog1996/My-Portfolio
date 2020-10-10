@@ -39,7 +39,10 @@ main {
     width: 200px;
 }
 
-/* This is the orange bar above the footer in the about me pages */
+/* This is the orange bar above the footer in the about me page */
 #index-footer {
-    background-color: #daa520;
+    background-color: #ff8c00;
 }
+/* This is the gold bar above the footer in the portfolio page */
+#portfolio-footer {
+    background-color: #daa520
