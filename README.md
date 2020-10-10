@@ -4,8 +4,14 @@ Every page was created using Bootstrap and few styling elements added into the a
 They are fully responsive for large to extra-small screen sizes.
 
 Screenshots of the portfolio page:
+
+On Windows:
 ![image](https://user-images.githubusercontent.com/71483178/95651076-8e701300-0ab5-11eb-9d7b-73feeb0ad976.png)
+
+On Mac:
 ![image](https://user-images.githubusercontent.com/71483178/95651179-7f3d9500-0ab6-11eb-92f9-b3d145615b9f.png)
+
+On iPhone:
 ![image](https://user-images.githubusercontent.com/71483178/95651190-8bc1ed80-0ab6-11eb-847b-e301b904e338.png)
 
 MIT License
