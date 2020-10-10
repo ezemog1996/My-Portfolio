@@ -3,6 +3,11 @@ This is the start of my portfolio site.  This repository contains an about me pa
 Every page was created using Bootstrap and few styling elements added into the attached css file.
 They are fully responsive for large to extra-small screen sizes.
 
+Screenshots of the portfolio page:
+![image](https://user-images.githubusercontent.com/71483178/95651076-8e701300-0ab5-11eb-9d7b-73feeb0ad976.png)
+![image](https://user-images.githubusercontent.com/71483178/95651179-7f3d9500-0ab6-11eb-92f9-b3d145615b9f.png)
+![image](https://user-images.githubusercontent.com/71483178/95651190-8bc1ed80-0ab6-11eb-847b-e301b904e338.png)
+
 MIT License
 
 Copyright (c) [2020] [Enrique Gomez]
@@ -24,3 +29,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Link: https://ezemog1996.github.io/My-Portfolio/index.html
