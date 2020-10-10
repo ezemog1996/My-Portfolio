@@ -12,6 +12,7 @@ On Mac:
 ![image](https://user-images.githubusercontent.com/71483178/95651179-7f3d9500-0ab6-11eb-92f9-b3d145615b9f.png)
 
 On iPhone:
+
 ![image](https://user-images.githubusercontent.com/71483178/95651190-8bc1ed80-0ab6-11eb-847b-e301b904e338.png)
 
 MIT License
