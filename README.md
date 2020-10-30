@@ -1,6 +1,6 @@
 # My-Portfolio
-This is the start of my portfolio site.  This repository contains an about me page, a contact page, and a portfolio page.
-Every page was created using Bootstrap and few styling elements added into the attached css file.
+This is the start of my portfolio site.  This repository contains an about me page, a contact page, and a portfolio page.  Each page has a navbar with working links.  My name and the about link both lead to the about me page.  Contact and portfolio links lead to their corresponding pages.  There is also a working button link to my linkedin profile on the about me page.
+Every page was created using Bootstrap and a few styling elements added into the css file found in the css folder within the assets folder.
 They are fully responsive for large to extra-small screen sizes.
 
 Screenshots of the portfolio page:
@@ -14,6 +14,7 @@ On Mac:
 On iPhone:
 
 ![image](https://user-images.githubusercontent.com/71483178/95651190-8bc1ed80-0ab6-11eb-847b-e301b904e338.png)
+
 
 MIT License
 
