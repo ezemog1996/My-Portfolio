@@ -35,7 +35,7 @@ main {
 
 /* Sizing the image of me on index.html */
 #me {
-    height: 200px;
+    height: 210px;
 }
 
 /* This is the orange bar above the footer in the about me page */
@@ -48,7 +48,7 @@ main {
 }
 
 .in-span {
-    width: 2010px;
+    width: 210px;
     float: left;
     clear: left
 }
