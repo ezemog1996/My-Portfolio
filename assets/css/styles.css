@@ -36,7 +36,6 @@ main {
 /* Sizing the image of me on index.html */
 #me {
     height: 200px;
-    width: 200px;
 }
 
 /* This is the orange bar above the footer in the about me page */
@@ -46,4 +45,10 @@ main {
 /* This is the gold bar above the footer in the portfolio page */
 #portfolio-footer {
     background-color: #daa520
+}
+
+.in-span {
+    width: 204px;
+    float: left;
+    clear: left
 }
