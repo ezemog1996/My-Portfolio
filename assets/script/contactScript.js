@@ -3,9 +3,9 @@ $(document).ready(function() {
         
         console.log("clicked");
         
-        var name = $("#name").val();
-        var email = $("#email").val();
-        var message = $("#message").val();
+        var name = $("#contact-name").val();
+        var email = $("#contact-email").val();
+        var message = $("#contact-message").val();
         var status = $("#status");
         status.empty();
 
